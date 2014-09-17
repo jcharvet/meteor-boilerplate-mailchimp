@@ -1,4 +1,7 @@
-# meteor-boilerplate
+# meteor boilerplate with mailchimp integration
+This is a mix work in progress from 2 projects:
+* http://mailchimp.meteor.com/
+* https://github.com/Differential/meteor-boilerplate
 
 A starting point for meteorjs applications, includes Iron Router, Bootstrap 3, Font Awesome, LESS and Coffeescript.
 
@@ -13,8 +16,7 @@ A starting point for meteorjs applications, includes Iron Router, Bootstrap 3, F
 * <a href="http://fontawesome.io/" target="_blank">Font Awesome 4.1.0</a>
 
 ## Installation
-
-Make sure you have Meteor and [Meteorite](https://github.com/oortcloud/meteorite/) installed, and then clone locally and run with `mrt`
+Just run meteor
 
 ## File structure
 
@@ -85,3 +87,6 @@ Tempate.home.rendered = ->
   $("<meta>", { name: "description", content: "Page description for My New Meteor App" }).appendTo "head"
 
 ```
+
+
+work in progress
