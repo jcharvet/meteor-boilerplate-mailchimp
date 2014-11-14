@@ -1,4 +1,5 @@
 # meteor boilerplate with mailchimp integration
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jcharvet/meteor-boilerplate-mailchimp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is a mix work in progress from 2 projects:
 * http://mailchimp.meteor.com/
 * https://github.com/Differential/meteor-boilerplate
